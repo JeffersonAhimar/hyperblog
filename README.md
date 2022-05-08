@@ -7,6 +7,7 @@ Un blog increíble
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * Creado por Jefferson Ahimar
+* Incluye ejemplos en windows, linux y mac
 
 Recordatorio: **Este readme.md es un chiste**.
 [YouTube](https://www.youtube.com/ "YouTube")
