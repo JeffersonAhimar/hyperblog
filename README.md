@@ -1,2 +1,11 @@
 # hyperblog
-Un blog increible para el curso de Git y Github
+Un blog increíble
+> El curso de Git y GitHub
+> - Machine Learning
+
+## En este curso
+* Todos los comandos de Git
+* El flujo de trabajo en GitHub
+
+Recordatorio: **Este readme.md es un chiste**.
+[YouTube](https://www.youtube.com/ "YouTube")
